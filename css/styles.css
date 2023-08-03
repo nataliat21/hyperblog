@@ -5,12 +5,15 @@ body{
     font-size: 16px;
 }
 #cabecera{
-    background-color: #333;
+    background-image: url("../imagenes/logo.png");
+    background-repeat: repeat;
+    object-fit: cover;
     box-shadow: 0px 5px 30px 0px rgba(0,0,0,0.75);
     color: white;
     font-weight: bold;
     margin: 0;
     padding: 0.5em;
+    height: 300px;
 }
 #container{
     width: 70%;
