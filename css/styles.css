@@ -23,3 +23,10 @@ body{
 #container h1{
     font-size: 20px;
 }
+
+footer{
+    background-color: aqua;
+}
+footer p{
+    text-align: center;
+}
